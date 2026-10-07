@@ -1,16 +1,27 @@
-## "Se alguém estiver lendo estas palavras, saiba que o poder é um fardo pesado."
+### Hello World! 👋
 
-<!--
-**deisesan/deisesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "If someone is reading these words, know that power is a heavy burden."
 
-Here are some ideas to get you started:
+Frontend Developer with experience building web applications and a growing interest in **Artificial Intelligence, Machine Learning, and Data Science**. Currently working in software development while completing my degree in Computer Science and deepening my studies in machine learning and algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Tools 👩‍💻
+
+* **Languages:** TypeScript, JavaScript, Python, SQL
+* **Frontend:** React, Vite, HTML, CSS
+* **State Management:** Redux, Redux Saga, React Query
+* **UI & Forms:** Material UI (MUI), React Hook Form
+* **Testing:** Vitest, Testing Library, MSW
+* **Artificial Intelligence & Machine Learning:** Machine Learning, NLP, text classification, Natural Language Processing
+* **Data Science:** Pandas, NumPy, exploratory data analysis, data preprocessing, vectorization, and model evaluation
+* **Currently studying:** Mathematics for Machine Learning, optimization algorithms, AI fundamentals, and scientific research
+
+### Academic Interests 🧠
+
+* Machine Learning
+* Artificial Intelligence
+* Natural Language Processing (NLP)
+* Optimization Algorithms
+* Mathematical Algorithm Improvement
+* Data Science
+* Text Analysis and Classification
+* Scientific Research in Computer Science
