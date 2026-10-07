@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-> "If someone is reading these words, know that power is a heavy burden."
+> "If men read these words, let them know that power is a heavy burden."
 
 Frontend Developer with experience building web applications and a growing interest in **Artificial Intelligence, Machine Learning, and Data Science**. Currently working in software development while completing my degree in Computer Science and deepening my studies in machine learning and algorithms.
 
